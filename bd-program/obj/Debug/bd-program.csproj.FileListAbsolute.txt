@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\bd-program\bd-program\bin\Debug\bd-program.exe.config
+C:\Users\Usuario\source\repos\bd-program\bd-program\bin\Debug\bd-program.exe
+C:\Users\Usuario\source\repos\bd-program\bd-program\bin\Debug\bd-program.pdb
+C:\Users\Usuario\source\repos\bd-program\bd-program\obj\Debug\bd-program.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\bd-program\bd-program\obj\Debug\bd_program.Form1.resources
+C:\Users\Usuario\source\repos\bd-program\bd-program\obj\Debug\bd_program.Properties.Resources.resources
+C:\Users\Usuario\source\repos\bd-program\bd-program\obj\Debug\bd-program.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\bd-program\bd-program\obj\Debug\bd-program.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\bd-program\bd-program\obj\Debug\bd-program.exe
+C:\Users\Usuario\source\repos\bd-program\bd-program\obj\Debug\bd-program.pdb
